@@ -1,0 +1,139 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding:0;
+    background-image: url('../imagenes/incripcion1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.index{
+   
+        font-family: Arial, sans-serif;
+        margin: 20px;
+        padding:0;
+        background-image: url('../imagenes/menu.jpg');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        color:black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+}
+.index h1{
+    color: #f1f2f3;
+    position: absolute;
+    top: 10%;
+    left:8%;
+}
+.index ul{
+    color:blue;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+
+}
+.libro{
+   
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding:0;
+    background-image: url('../imagenes/libro2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.libro h1{
+    color: #f1f2f3;
+    position: absolute;
+    top: 10%;
+    left: 39%;
+}
+.libro .form-centrado {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 500px; 
+    text-align: center; 
+}
+.libro .form-centrado input {
+    width: 90%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+
+body h1{
+    
+    color: #f1f2f3;
+    position: absolute;
+    top: 18%;
+    left: 39%;
+  
+
+}
+.form-centrado {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 400px; 
+    text-align: center; 
+}
+.form-centrado input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.mostrar{
+   
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding:0;
+    background-image: url('../imagenes/mostrar20.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    height: 100vh;
+}
+.mostrar a{
+    position: absolute;
+    top: 5%;
+    left: 90%;
+
+}
+.mostrar h1{
+    color: #f1f2f3;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+}
+.mostrar ul {
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 400px; 
+    text-align: left; 
+}
